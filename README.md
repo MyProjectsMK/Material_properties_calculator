@@ -11,6 +11,6 @@ The program consists of four files:
 
 Its central point is the *material_properties_calculator.py* file written in Python 2.7. It is responsible for extrapolating data provided by a user in the *input_known_parameter_values.txt* and *input_known_temperatures.txt* files. If the format of provided material properties and/or temperatures is not correct, a user is asked to verify and update the data. The program saves its output to the *output_calculated_values.xlsx* file - it contains values of material properties calculated for the scope of temperatures required by a user.
 <br><br>
-The calculator utilizes Command Prompt to communicate with a user. This is how its interface looks like:
+The program utilizes the Python Shell to communicate with a user. This is how the interface of the calculator looks like:
 
 ![Figure 2](https://github.com/MyProjectsMK/Material_properties_calculator/blob/master/README_figure2.jpg)
