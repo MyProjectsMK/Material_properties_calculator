@@ -3,6 +3,6 @@ The repository contains a tool dedicated to interpolate and extrapolate material
 
 If you want to embed images, this is how you do it:
 
-!(https://github.com/MyProjectsMK/Material_properties_calculator/blob/master/README_figure1.jpg)
+![Figure 1](https://github.com/MyProjectsMK/Material_properties_calculator/blob/master/README_figure1.jpg)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
